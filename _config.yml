@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: false
     projects:
-    # - repo-name
+    - yutaymate.github.io
 
 social_media:
   # behance: your_username
@@ -47,19 +47,6 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Security
-    web_url: https://github.com/topics/security
-
-  - name: Penetration testing
-    web_url: https://github.com/topics/penetration-testing
-
-  - name: Hack The Box
-    web_url: https://app.hackthebox.eu/profile/145610
-    image_url: https://www.hackthebox.eu/badge/image/145610
-
-  - name: Data visualization
-    web_url: https://github.com/topics/data-visualization
-
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
@@ -87,3 +74,16 @@ topics:
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+
+  - name: Hack The Box
+    web_url: https://app.hackthebox.eu/profile/145610
+    image_url: https://avatars.githubusercontent.com/u/31746234
+
+  - name: Security
+    web_url: https://github.com/topics/security
+
+  - name: Penetration testing
+    web_url: https://github.com/topics/penetration-testing
+
+  - name: Data visualization
+    web_url: https://github.com/topics/data-visualization
