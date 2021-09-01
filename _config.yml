@@ -1,5 +1,5 @@
 layout: stacked
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -33,7 +33,7 @@ social_media:
   # dribbble: your_username
   facebook: yuta.yamate
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: yuta.yamate
   # keybase: your_username
   linkedin: yuta-yamate-041a12201
   # mastodon: your_username
@@ -53,6 +53,10 @@ topics:
   - name: Penetration testing
     web_url: https://github.com/topics/penetration-testing
 
+  - name: Hack The Box
+    web_url: https://app.hackthebox.eu/profile/145610
+    image_url: https://www.hackthebox.eu/badge/image/145610
+
   - name: Data visualization
     web_url: https://github.com/topics/data-visualization
 
@@ -64,6 +68,18 @@ topics:
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
+
+  - name: Visual Studio Code
+    web_url: https://github.com/topics/vscode
+    image_url: https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png
+
   - name: macOS
     web_url: https://github.com/topics/macos
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png
@@ -71,7 +87,3 @@ topics:
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
-
-  - name: Visual Studio Code
-    web_url: https://github.com/topics/vscode
-    image_url: https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png
