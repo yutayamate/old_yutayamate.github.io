@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -44,7 +44,7 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: https://yutayamate.github.io
+  website: https://github.com/yutayamate
   # youtube: your_username
 
 topics:
@@ -84,6 +84,9 @@ topics:
 
   - name: DevSecOps
     web_url: https://github.com/topics/devsecops
+
+  - name: OWASP
+    web_url: https://github.com/topics/owasp
 
   - name: Data visualization
     web_url: https://github.com/topics/data-visualization
