@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     - yutayamate.github.io
     - yutayamate
