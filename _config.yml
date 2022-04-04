@@ -1,5 +1,5 @@
-layout: stacked
-style: light
+layout: sidebar
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     - yutayamate.github.io
     - yutayamate
@@ -44,10 +44,25 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: https://yutayamate.github.io
+  website: https://www.yutayamate.com
   # youtube: your_username
 
 topics:
+  - name: Security
+    web_url: https://github.com/topics/security
+
+  - name: Penetration testing
+    web_url: https://github.com/topics/penetration-testing
+
+  - name: DFIR
+    web_url: https://github.com/topics/dfir
+
+  - name: OWASP
+    web_url: https://github.com/topics/owasp
+
+  - name: Data visualization
+    web_url: https://github.com/topics/data-visualization
+
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
@@ -64,10 +79,6 @@ topics:
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
 
-  - name: Visual Studio Code
-    web_url: https://github.com/topics/vscode
-    image_url: https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png
-
   - name: macOS
     web_url: https://github.com/topics/macos
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png
@@ -76,17 +87,6 @@ topics:
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
-  - name: Security
-    web_url: https://github.com/topics/security
-
-  - name: Penetration testing
-    web_url: https://github.com/topics/penetration-testing
-
-  - name: DevSecOps
-    web_url: https://github.com/topics/devsecops
-
-  - name: OWASP
-    web_url: https://github.com/topics/owasp
-
-  - name: Data visualization
-    web_url: https://github.com/topics/data-visualization
+  - name: Visual Studio Code
+    web_url: https://github.com/topics/vscode
+    image_url: https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png
