@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -48,14 +48,17 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Security
-    web_url: https://github.com/topics/security
+  - name: Application security
+    web_url: https://github.com/topics/application-security
 
   - name: Penetration testing
     web_url: https://github.com/topics/penetration-testing
 
   - name: DFIR
     web_url: https://github.com/topics/dfir
+
+  - name: Data visualization
+    web_url: https://github.com/topics/data-visualization
 
   - name: OWASP
     web_url: https://github.com/topics/owasp
@@ -64,9 +67,6 @@ topics:
   - name: HackTheBox
     web_url: https://github.com/topics/hackthebox
     image_url: https://avatars.githubusercontent.com/u/31746234
-
-  - name: Data visualization
-    web_url: https://github.com/topics/data-visualization
 
   - name: Python
     web_url: https://github.com/topics/python
