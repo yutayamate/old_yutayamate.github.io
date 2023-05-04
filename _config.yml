@@ -1,5 +1,5 @@
-layout: stacked
-style: light
+layout: sidebar
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -59,6 +59,11 @@ topics:
 
   - name: OWASP
     web_url: https://github.com/topics/owasp
+    image_url: https://avatars.githubusercontent.com/u/155815
+
+  - name: HackTheBox
+    web_url: https://github.com/topics/hackthebox
+    image_url: https://avatars.githubusercontent.com/u/31746234
 
   - name: Data visualization
     web_url: https://github.com/topics/data-visualization
@@ -66,10 +71,6 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-
-  - name: JavaScript
-    web_url: https://github.com/topics/javascript
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
