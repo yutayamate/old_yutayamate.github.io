@@ -53,8 +53,8 @@ topics:
   - name: Penetration testing
     web_url: https://github.com/topics/penetration-testing
 
-  - name: DFIR
-    web_url: https://github.com/topics/dfir
+  - name: Digital forensics
+    web_url: https://github.com/topics/forensics
 
   - name: Data visualization
     web_url: https://github.com/topics/data-visualization
@@ -78,6 +78,10 @@ topics:
   - name: Kubernetes
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
+
+  - name: Jenkins
+    web_url: https://github.com/topics/jenkins
+    image_url: https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png
 
   - name: macOS
     web_url: https://github.com/topics/macos
